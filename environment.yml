@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - matplotlib
-  - os
   - numpy
   - rasterio
   - earthpy
